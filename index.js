@@ -16,3 +16,9 @@ function johnLennonFacts(facts) {
   }
   return exclamArray
 }
+
+function iLoveTheBeatles(n) {
+  let iLoveArray = ['I love the Beatles!'];
+  do{
+    return iLoveArray} while (n < 15)
+}
